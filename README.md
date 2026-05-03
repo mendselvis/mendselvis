@@ -12,9 +12,9 @@
 
 -  Self-taught full-stack developer based in **Accra, Ghana**
 -  Currently building projects and contributing to open source
--  Building in public — sharing my journey as I grow
--  Ask me about **React, Next.js, Node.js, Django, FastAPI**
--  Fun fact: I work across the full stack — from pixel to database
+-  Building in public — sharing my journey as I grow 
+-  Ask me about **React, Next.js, Node.js,Bootsrap, Django, FastAPI**
+-  Fun fact: I work across the full stack — from pixel to database 
 
 ---
 
