@@ -7,7 +7,7 @@
   
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me   
 
 
 -  Self-taught full-stack developer based in **Accra, Ghana**
